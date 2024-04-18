@@ -1,0 +1,20 @@
+{
+  "name": "muhammadzaeemaltaf-word-counter",
+  "version": "1.0.0",
+  "description": "CLI utility utilizing inquirer prompts users to input a sentence, swiftly providing the word count. Designed for ease of use, it offers convenient word count analysis directly from the command line.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
